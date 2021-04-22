@@ -7,3 +7,6 @@ CNest is made for C# projects
 ## CNest or CNest Min?
 That doesn't really matter. CNest min is a minified version of the normal CNest, which means, that the file is smaller and harder to read. 
 All in all both files are totally the same
+
+### Final word
+You found mistakes? Message me: fabico#1080 (Discord)
